@@ -14,5 +14,6 @@ This project extracts specific data (emails, URLs, phone numbers, credit card nu
 ## project structure
 
 alu_regex-data-extraction-strixx-thierry
+
 │── regex_extraction.js (# Main JavaScript file)                    
 └── README.md ( # Project documentation)
